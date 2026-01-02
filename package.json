@@ -10,5 +10,8 @@
     "sams"
   ],
   "author": "Aryan Saud and Safal Shyangwa",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
